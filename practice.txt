@@ -1,0 +1,5 @@
+Hi Everyone
+we are learning File I/O
+This is a practice file
+I am Learning Python
+ I Love Python
